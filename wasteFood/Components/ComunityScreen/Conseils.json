@@ -1,0 +1,59 @@
+[
+  {
+    "id": 1,
+    "name": "Tokyo",
+    "time": "4 days ago",
+    "image": "https://www.maquillage.com/wp-content/uploads/2018/04/photos-TOKYO-case-de-papel-1.jpg.webp",
+    "description": "Using reusable containers to store your food is an eco-friendly and economical practice. Glass or stainless steel containers are not only durable but also keep food fresher for longer than disposable packaging. This also reduces your reliance on single-use plastic."
+  },
+  {
+    "id": 2,
+    "name": "Georgina Rodriguez",
+    "time": "Yesterday",
+    "image": "https://www.uniquenewsonline.com/wp-content/uploads/2020/12/Ronaldo-Wife.png",
+    "description": "Buying seasonal fruits and vegetables is a simple yet powerful way to reduce your carbon footprint. Local and seasonal products require fewer resources for transportation and preservation, making them an eco-friendly and economical choice. Moreover, they are often fresher and more flavorful."
+  },
+  {
+    "id": 3,
+    "name": "C.Ronaldo",
+    "time": "3 days ago",
+    "image": "https://img.asmedia.epimg.net/resizer/v2/UZMFBP2HHNPVTFTRVLGM3NE3IM.jpg?auth=5181ff9afe08d6033371476ef33ce5a3f20feb1a98c0bd9abef5e8e5e2ccc3d7&width=736&height=414&smart=true",
+    "description": "Composting is a sustainable solution for managing organic waste. By turning your peels, food scraps, and other biodegradable waste into compost, you enrich your soil while reducing the amount of waste sent to landfills. It's a simple action with a significant environmental impact."
+  },
+  {
+    "id": 4,
+    "name": "Otis Milburn",
+    "time": "2 weeks ago",
+    "image": "https://capricho.abril.com.br/wp-content/uploads/2019/01/sex-education-netflix.jpg?quality=85&strip=info&w=768",
+    "description": "Participating in food-sharing programs is a great way to fight food waste. Apps and local initiatives allow surplus food to be redistributed to those in need. It's a compassionate and eco-friendly way to give food a second life."
+  },
+  {
+    "id": 5,
+    "name": "Marina",
+    "time": "1 week ago",
+    "image": "https://pbs.twimg.com/media/EawBN2wWAAIAwo5?format=jpg&name=large",
+    "description": "Avoid buying in bulk if you can't consume the products before their expiration date. While promotions may be tempting, they can lead to unnecessary waste if the food isn't consumed on time. Opt for smaller quantities and adjust based on your actual needs."
+  },
+  {
+    "id": 6,
+    "name": "Martina Cariddi",
+    "time": "1 week ago",
+    "image": "https://static1.purepeople.com/articles/5/44/10/85/@/6340183-martina-cariddi-joue-mencia-dans-la-sais-580x0-1.jpg",
+    "description": "Learning to cook with leftovers is a valuable skill to minimize food waste. Dishes like soups, quiches, or salads can easily be prepared with ingredients already available in your fridge. This allows you to create delicious meals while reducing waste."
+  },
+
+  {
+    "id": 7,
+    "name": "Alice",
+    "time": "2 hours ago",
+    "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dXNlciUyMHByb2ZpbGV8ZW58MHx8MHx8fDA%3D",
+    "description": "Meal planning is an effective strategy to reduce food waste. By preparing a weekly menu, you can buy only what you need, avoid impulse purchases, and optimize the use of ingredients. It also helps save time and money while contributing to environmental preservation."
+  },
+  {
+    "id": 8,
+    "name": "Bob",
+    "time": "5 hours ago",
+    "image": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?q=80&w=1780&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "Freezing leftovers is an excellent method for extending the shelf life of food. By dividing portions and storing them properly, you can avoid throwing away still-consumable food. Additionally, it allows you to prepare quick and healthy meals on days when you're short on time."
+  }
+]

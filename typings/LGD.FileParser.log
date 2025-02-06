@@ -1,0 +1,25 @@
+Stop logging by changing setting "lgd.options.createDebugLog"
+If you have any problems or requests please create an issue on Github.
+
+c:\Users\Client\Desktop\Waste Food\wasteFood\const\constProfileScreen.js: 
+
+ERROR: Error occurred parsing value using "any" instead. err: Error: Cannot find module '../assets/pdp1.jpg'
+Require stack:
+- c:\Users\Client\.vscode\extensions\learn-game-development.js-syntax-extension-2.7.8\dist\extension.js
+- c:\Users\Client\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\api\node\extensionHostProcess.js
+ERROR: Error occurred parsing value using "any" instead. err: Error: Cannot find module '../assets/pdp1.jpg'
+Require stack:
+- c:\Users\Client\.vscode\extensions\learn-game-development.js-syntax-extension-2.7.8\dist\extension.js
+- c:\Users\Client\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\api\node\extensionHostProcess.js
+ERROR: Error occurred parsing value using "any" instead. err: SyntaxError: Unexpected token '}'
+ERROR: Error occurred parsing value using "any" instead. err: SyntaxError: Unexpected token '}'
+ERROR: Error occurred parsing value using "any" instead. err: SyntaxError: Unexpected token '}'
+ERROR: Error occurred parsing value using "any" instead. err: SyntaxError: Unexpected token '}'
+ERROR: Error occurred parsing value using "any" instead. err: SyntaxError: Unexpected token '}'
+ERROR: Error occurred parsing value using "any" instead. err: SyntaxError: Unexpected token '}'
+ERROR: Error occurred parsing value using "any" instead. err: SyntaxError: Unexpected token '}'
+ERROR: Error occurred parsing value using "any" instead. err: SyntaxError: Unexpected token '}'
+ERROR: Error occurred parsing value using "any" instead. err: SyntaxError: Unexpected token '}'
+ERROR: Error occurred parsing value using "any" instead. err: SyntaxError: Unexpected token '}'
+ERROR: Error occurred parsing value using "any" instead. err: SyntaxError: Unexpected token '}'
+ERROR: Error occurred parsing value using "any" instead. err: SyntaxError: Unexpected token '}'

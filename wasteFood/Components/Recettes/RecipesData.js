@@ -1,0 +1,87 @@
+const categories = ['All', 'Breakfast', 'Lunch', 'Dinner', 'Dessert', 'Snacks', 'Drinks'];
+
+const recipes = [
+    {
+        id: '1',
+        title: 'Gourmet French Toast',
+        description: 'Transform your stale bread into a delicious breakfast, perfect for starting the day sweetly.',
+        image: require('../../assets/recette1.png'),
+        time: '15 min',
+        ingredients: ['Stale bread', 'Milk', 'Eggs', 'Sugar', 'Cinnamon'],
+        rating: 4.5,
+        category: 'Breakfast',
+    },
+    {
+        id: '2',
+        title: 'Comforting Vegetable Soup',
+        description: 'A waste-reducing soup that warms the heart and soul, perfect for chilly evenings.',
+        image: require('../../assets/1.jpg'),
+        time: '30 min',
+        ingredients: ['Carrots', 'Potatoes', 'Leeks', 'Spices'],
+        rating: 4.0,
+        category: 'Lunch',
+    },
+    {
+        id: '3',
+        title: 'Vitamin-packed Smoothie',
+        description: 'Use your overripe fruits to create a refreshing and vitamin-packed smoothie.',
+        image: require('../../assets/2.jpg'),
+        time: '10 min',
+        ingredients: ['Bananas', 'Strawberries', 'Milk', 'Honey'],
+        rating: 4.7,
+        category: 'Drinks',
+    },
+    {
+        id: '4',
+        title: 'Crispy Veggie Fritters',
+        description: 'Turn leftover veggies into delicious and crispy fritters, perfect for snacks or sides.',
+        image: require('../../assets/3.jpg'),
+        time: '20 min',
+        ingredients: ['Zucchini', 'Carrots', 'Flour', 'Egg', 'Spices'],
+        rating: 4.2,
+        category: 'Snacks',
+    },
+    {
+        id: '5',
+        title: 'Hearty Bread Pudding',
+        description: 'Give stale bread a second life with this warm and comforting dessert.',
+        image: require('../../assets/4.jpg'),
+        time: '25 min',
+        ingredients: ['Stale bread', 'Milk', 'Eggs', 'Vanilla', 'Raisins'],
+        rating: 4.6,
+        category: 'Dessert',
+    },
+    {
+        id: '6',
+        title: 'Oven-baked Potato Skins',
+        description: 'Use potato peels to create a tasty and crunchy appetizer, reducing waste in your kitchen.',
+        image: require('../../assets/5.jpg'),
+        time: '20 min',
+        ingredients: ['Potato peels', 'Cheese', 'Olive oil', 'Spices'],
+        rating: 4.3,
+        category: 'Snacks',
+    },
+    {
+        id: '7',
+        title: 'Refreshing Citrus Salad',
+        description: 'Don’t let those citrus fruits go to waste; turn them into a zesty and healthy salad.',
+        image: require('../../assets/6.png'),
+        time: '15 min',
+        ingredients: ['Oranges', 'Grapefruit', 'Honey', 'Mint leaves'],
+        rating: 4.8,
+        category: 'Dessert',
+    },
+    {
+        id: '8',
+        title: 'Leftover Rice Stir-fry',
+        description: 'Transform leftover rice into a quick and satisfying stir-fry with veggies and soy sauce.',
+        image: require('../../assets/7.jpg'),
+        time: '15 min',
+        ingredients: ['Cooked rice', 'Bell peppers', 'Soy sauce', 'Garlic', 'Egg'],
+        rating: 4.4,
+        category: 'Dinner',
+    }
+];
+
+
+export { categories, recipes };

@@ -1,0 +1,55 @@
+{
+  "greetings": [
+    "Hello! How can I help you today?",
+    "Hi there! What can I do for you?",
+    "Welcome! Ask me anything about food waste.",
+    "Hey! Ready to learn how to reduce food waste?",
+    "Hello! Let's tackle food waste together. What do you need?"
+  ],
+  "responses": {
+    "food waste": [
+      "Did you know that reducing food waste can save you money and help the environment?",
+      "Try planning your meals to avoid buying too much food.",
+      "Composting is a great way to reduce food waste!",
+      "You can freeze leftovers to enjoy them later instead of throwing them away.",
+      "Buy in smaller portions to avoid wasting food that you won’t eat in time.",
+      "Donate extra food to local food banks to help those in need.",
+      "Store food properly to extend its shelf life. For example, keep fruits and vegetables in separate drawers."
+    ],
+    "recycling": [
+      "Recycling helps reduce waste and conserve resources.",
+      "Make sure to separate your recyclables from regular trash.",
+      "Did you know that some plastics can be recycled into new products, like clothing or furniture?",
+      "Remember to clean recyclables before disposing of them to avoid contamination.",
+      "Opt for products with recyclable packaging to make a bigger impact.",
+      "Check your local guidelines for recycling as they can vary by region."
+    ],
+    "composting": [
+      "Composting is an eco-friendly way to dispose of food scraps.",
+      "You can compost fruit and vegetable peels, coffee grounds, and eggshells.",
+      "Make sure to balance your compost with brown materials, like leaves or cardboard, to avoid odors.",
+      "Start a small composting bin in your backyard to help reduce food waste.",
+      "Avoid composting meat, dairy, or oily foods as they can attract pests."
+    ],
+    "energy conservation": [
+      "Switching to energy-efficient appliances can reduce your carbon footprint.",
+      "Remember to turn off lights when you're not using them to save electricity.",
+      "Unplug devices when not in use to prevent phantom energy drain.",
+      "Use LED bulbs instead of traditional ones to save energy.",
+      "Consider using a smart thermostat to optimize energy usage at home."
+    ],
+    "water conservation": [
+      "Shorten your showers to save water and reduce energy consumption.",
+      "Fix leaky faucets to prevent unnecessary water waste.",
+      "Collect rainwater to use for watering plants and gardens.",
+      "Use a broom instead of a hose to clean driveways and sidewalks.",
+      "Install water-saving devices like low-flow showerheads and faucet aerators."
+    ],
+    "default": [
+      "I'm here to help with tips on reducing food waste. Ask me anything!",
+      "Let's work together to reduce food waste. What do you need help with?",
+      "Food waste is a big problem, but together we can make a difference. Ask me for tips!",
+      "If you have any questions about sustainability, I'm here to answer them!"
+    ]
+  }
+}

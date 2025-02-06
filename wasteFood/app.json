@@ -1,0 +1,91 @@
+{
+  "expo": {
+    "name": "wasteFood",
+    "slug": "wastFood",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/splash.jpg",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash.jpg",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff",
+      "imageBackgroundTransparent": true
+    },
+    "ios": {
+      "supportsTablet": true,
+      "infoPlist": {
+        "NSCameraUsageDescription": "Cette application utilise la caméra pour scanner des codes QR.",
+        "NSMicrophoneUsageDescription": "Allow $(PRODUCT_NAME) to access your microphone"
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+
+      "permissions": [
+        "CAMERA",
+        "android.permission.CAMERA",
+        "android.permission.RECORD_AUDIO",
+        "CAMERA",
+        "android.permission.CAMERA",
+        "android.permission.RECORD_AUDIO"
+      ],
+      "package": "com.anonymous.wastFood"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-font",
+      "expo-barcode-scanner",
+      "expo-camera",
+      "expo-asset"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "b6f43e80-7a5d-4208-b9dd-46846af8600a"
+      }
+    },
+    "owner": "drghassen",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/b6f43e80-7a5d-4208-b9dd-46846af8600a"
+    },
+    "fonts": [
+      {
+        "fontFamily": "SemiBold",
+        "src": "./assets/fonts/Inter_28pt-Medium.ttf"
+      },
+      {
+        "fontFamily": "ExtraLight",
+        "src": "./assets/fonts/Inter_18pt-ExtraLight.ttf"
+      },
+      {
+        "fontFamily": "Light",
+        "src": "./assets/fonts/Inter_18pt-Light.ttf"
+      },
+      {
+        "fontFamily": "title",
+        "src": "./assets/fonts/Inter_18pt-BoldItalic.ttf"
+      },
+      {
+        "fontFamily": "Regular",
+        "src": "./assets/fonts/Inter_24pt-Thin.ttf"
+      },
+      {
+        "fontFamily": "bold",
+        "src": "./assets/fonts/Inter_24pt-ExtraBold.ttf"
+      },
+      {
+        "fontFamily": "normal",
+        "src": "./assets/fonts/Inter_24pt-SemiBold.ttf"
+      }
+    ]
+  }
+}
